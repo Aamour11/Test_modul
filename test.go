@@ -2,6 +2,6 @@ package test
 
 import "fmt"
 
-func ulbi() {
+func Ulbi() {
 	fmt.Println("hello ulbi")
 }
